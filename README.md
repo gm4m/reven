@@ -13,7 +13,7 @@ Dont use the exe/python file that i shared on this projects on real PCs or anybo
 - Download/clone the py/exe file.
 - After downlading, run this:
 - For exe:
-reven.exe
+deme.exe
 - For python:
 reven.py
 
